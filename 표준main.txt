@@ -39,9 +39,6 @@ class _MyHomePageState extends State<MyHomePage> {
       body: const Center(
         child: Column(
           children: <Widget>[
-            Text(
-              'You have pushed the button this many times:',
-            ),
           ],
         ),
       ),

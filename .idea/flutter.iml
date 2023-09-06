@@ -24,6 +24,9 @@
       <excludeFolder url="file://$MODULE_DIR$/ex04_icon/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/ex04_icon/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/ex04_icon/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ex07_button_deco/ex07_button_deco/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ex07_button_deco/ex07_button_deco/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ex07_button_deco/ex07_button_deco/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
