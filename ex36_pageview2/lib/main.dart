@@ -77,8 +77,8 @@ class _MyHomePageState extends State<MyHomePage> {
             Expanded(
               flex: 1,
               child: PageView.builder(
-                controller: _pageController,
-                itemCount: pages.length,
+                controller: _pageController,  // 컨트롤러
+                itemCount: pages.length,      // 페이지 갯수
                 itemBuilder: (context, index) {
                   return getPage(index);
                 },
