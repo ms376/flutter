@@ -127,7 +127,7 @@ class _Page2State extends State<Page2> {
               style: ElevatedButton.styleFrom(backgroundColor: Colors.orange),
               onPressed: () {
                 Navigator.pop(context);
-              },
+              },  
               child: const Text('2페이지 제거', style: TextStyle(fontSize: 24)),
             ),
             const SizedBox(
