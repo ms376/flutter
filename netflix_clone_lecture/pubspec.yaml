@@ -1,4 +1,4 @@
-name: nbbang
+name: netflix_clone_lecture
 description: A new Flutter project.
 publish_to: 'none'
 
@@ -10,6 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  carousel_slider:
 
 
   cupertino_icons: ^1.0.2
@@ -26,7 +27,8 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/images/pt.sd.png
+    - assets/images/bbongflix_logo.png
+    - assets/images/test_movie_1.png
   #   - images/a_dot_ham.jpeg
 
   # example:
